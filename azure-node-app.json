@@ -1,0 +1,15 @@
+{
+  "name": "azure-webapp-demo",
+  "version": "1.0.0",
+  "description": "Minimal Node.js app for Azure App Service",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
